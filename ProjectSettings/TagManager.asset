@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Hallucination
+  - attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OhTheMisery
+  - Water
+  - UI
+  - Objects
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 222941183
+    locked: 0
+  - name: Walls
+    uniqueID: 3658664577
+    locked: 0
+  - name: Objects
+    uniqueID: 3161917367
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3858519157
+    locked: 0
+  - name: Enemies
+    uniqueID: 2787602569
+    locked: 0
+  - name: UI
+    uniqueID: 537945723
+    locked: 0
