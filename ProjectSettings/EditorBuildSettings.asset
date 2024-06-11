@@ -11,4 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestingScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorStart.unity
+    guid: 55d78702bebbfe84d955b0aa0bbd1394
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorEmpty.unity
+    guid: 4f86ac54966fad844a791062eb618741
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorEnd.unity
+    guid: 7731b931b5eebc347a359d994a53fd78
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorLibrary.unity
+    guid: 497d6b380f1ebb3459bc2bac0654a68c
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorMonster.unity
+    guid: 8f008b6cd5534d341a90215a30fdd7e2
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorSafe.unity
+    guid: 8eb6976265b5cf94dba3d805eea40f26
+  - enabled: 1
+    path: Assets/Scenes/DungeonScenes/1stFloorTreasure.unity
+    guid: 2516ae590d4481c449817ead14a219a8
   m_configObjects: {}

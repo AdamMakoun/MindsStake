@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb894569ad53cf24691c8fde276c60f5, type: 3}
+  m_Name: The Codex of Fears
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: The Codex of Fears
+  description: Book that contains info about phobias
+  icon: {fileID: 0}
+  text: 'Arachnophobia - The Fear of Spiders.
+
+    Necrophobia - The fear of dead
+    bodies.
+
+    Fungophobia - The fear of fungus.
+
+    Trypophobia - The fear of
+    many holes.
+
+    Zeusophobia - The fear of a diety.'
+  isRead: 0

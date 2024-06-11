@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
 
 public class TorchBehavior : MonoBehaviour
@@ -30,10 +29,8 @@ public class TorchBehavior : MonoBehaviour
         {
             if(collider.TryGetComponent<PlayerBehavior>(out PlayerBehavior playerBeh))
             {
-                Debug.Log("found Player");
                 if(remainingRegainingStressCd <= 0)
                 {
-                    Debug.Log("regained players stress");
                     playerBeh.Player.regainStress(stressToRegain);
                     remainingRegainingStressCd = regainingStressCd;
                 }

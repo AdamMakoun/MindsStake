@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb894569ad53cf24691c8fde276c60f5, type: 3}
+  m_Name: The Scroom
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: The Scroom
+  description: Information about monster "scroom"
+  icon: {fileID: 0}
+  text: "The scroom is a dangerous fungoid.\nThey are dangerous because of their
+    speed.\nOtherwise it shouldn't be a problem to deal\nwith those vermin. If they
+    get remotely close\nto source of heat they will get burnt.\nIf you don't have
+    any source of heat, \nYou can slice off their legs.\nWithout their legs they
+    are good as dead."
+  isRead: 0
